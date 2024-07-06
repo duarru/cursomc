@@ -1,3 +1,5 @@
+// acessar os dados dos objetos do tipo Categoria.
+
 package com.nelioalves.cursomc.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
